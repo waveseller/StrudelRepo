@@ -1,8 +1,13 @@
 {
   "_base": "https://raw.githubusercontent.com/waveseller/StrudelRepo/main/",
+
+  "dfam": {
+    "snare": "DFAM/snare_101.wav"
+  },
+
   "bass": [
-    "bass101.wav",
-    "bass102.wav",
-    "bass103.wav"
+    "DnB_bass_loops/bass101.wav",
+    "DnB_bass_loops/bass102.wav",
+    "DnB_bass_loops/bass103.wav"
   ]
 }
